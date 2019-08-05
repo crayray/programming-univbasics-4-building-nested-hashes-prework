@@ -29,7 +29,7 @@ def monopoly_with_third_tier
 				key1: "",
 				key2: "",
 				key3: "",
-				one_piece_owned: "25",
+				one_piece_owned: 25
 			},
 			names: {
 				key5: "",
