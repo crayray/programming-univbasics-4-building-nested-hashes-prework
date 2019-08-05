@@ -38,7 +38,7 @@ def monopoly_with_third_tier
 				key7: "",
 				key8: ""
 			},
-			
+
 		}
 	}
 end
