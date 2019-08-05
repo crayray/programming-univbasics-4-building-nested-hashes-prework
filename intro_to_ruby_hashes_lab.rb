@@ -30,14 +30,14 @@ def monopoly_with_third_tier
 				key2: "",
 				key3: "",
 				key4: "",
-				one_piece_owned: 25
 			},
 			names: {
 				key5: "",
 				key6: "",
 				key7: "",
 				key8: ""
-			}
+			},
+			one_piece_owned: 25
 		}
 	}
 end
